@@ -9,3 +9,8 @@ __pycache__/
 
 # CSV (if generated data)
 users.csv
+.venv/
+env/
+*.pyc
+*.csv
+.ipynb_checkpoints/
